@@ -1,0 +1,70 @@
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\Maryori Liset\Desktop\Programacion N Capas\Sistema de Ventas\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.dll
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\bin\Debug\CapaEnlaceDatos.pdb
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csprojResolveAssemblyReference.cache
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb

@@ -1,0 +1,39 @@
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\Maryori Liset\Desktop\Sistema de Ventas\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+D:\UNIVERSIDAD TECNOLÓGICA DEL PERÚ\IDAT  VI CICLO\Sistemas\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\CRHISTOPHER\Desktop\Sistema de Ventas Po Terminar\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+D:\Descargas\Sistema de Ventas C# y Sql by Start Tec\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C#\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+C:\Users\TOSHIBA\Desktop\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+E:\OTROS\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.dll
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\bin\Debug\CapaEnlaceDatos.pdb
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.csprojResolveAssemblyReference.cache
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.dll
+L:\PROGRAMACION DISTRIBUIDA\Sistema de Ventas C# - copia\Sistema de Ventas\CapaEnlaceDatos\obj\Debug\CapaEnlaceDatos.pdb
